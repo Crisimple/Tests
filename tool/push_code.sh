@@ -14,5 +14,5 @@ fi
 
 # 提交代码
 git add .
-git commit -m "Tests init"
+git commit -m "Tests add .gitignore"
 git push origin "${current_branch}"
