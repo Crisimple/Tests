@@ -14,5 +14,5 @@ fi
 
 # 提交代码
 git add .
-git commit -m "Tests add .gitignore"
+git commit -m "python 深浅拷贝赋值.py & sysVSos.py"
 git push origin "${current_branch}"
