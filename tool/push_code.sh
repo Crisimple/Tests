@@ -14,5 +14,5 @@ fi
 
 # 提交代码
 git add .
-git commit -m "python 深浅拷贝赋值.py & sysVSos.py"
+git commit -m "python程序设计"
 git push origin "${current_branch}"
