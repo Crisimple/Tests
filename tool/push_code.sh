@@ -14,5 +14,5 @@ fi
 
 # 提交代码
 git add .
-git commit -m "python程序设计"
+git commit -m "统计文件中相似行的平均值.py"
 git push origin "${current_branch}"
